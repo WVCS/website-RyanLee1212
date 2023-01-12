@@ -1,3 +1,20 @@
 body {
+  background-color: lightblue;
+}
 
+h2 {
+  color: darkblue;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px 5px lightblue;
+}
+
+img {
+  border: star darkblue 8px;
+  size: 90
+}
+
+img:hover {
+  border: dotted darkblue 10x;
 }
